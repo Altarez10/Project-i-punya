@@ -1,0 +1,27 @@
+🎮 RULES PERMAINAN
+🕹️ Kontrol
+⬅️ Tombol LEFT → gerak ke kiri
+➡️ Tombol RIGHT → gerak ke kanan
+
+🚀 Tujuan Game
+Hancurkan alien sebanyak mungkin untuk mendapatkan skor
+Semakin banyak skor, semakin cepat musuh bergerak
+
+👾 Musuh (Alien)
+Alien bergerak ke kiri dan kanan
+Jika menyentuh dinding → turun ke bawah
+Kecepatan alien akan meningkat setiap 5 poin
+
+💥 Peluru
+Pesawat otomatis menembak ke atas
+Jika peluru mengenai alien:
+Alien akan respawn di atas
+Skor bertambah +1
+
+☠️ Game Over
+Jika alien menyentuh pesawat → GAME OVER
+Game berhenti, skor terakhir ditampilkan
+
+🧮 Skor
+Setiap alien kena tembak = +1 poin
+Setiap 5 poin → semua alien jadi lebih cepat
